@@ -15,3 +15,5 @@ https://www.safaribooksonline.com/library/view/oca-java-se/9780134427201/
 
 Zeller's congruence
 https://en.wikipedia.org/wiki/Zeller%27s_congruence
+
+https://www.safaribooksonline.com/library/view/modern-java-collections/9780134663524/
