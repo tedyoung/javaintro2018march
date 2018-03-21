@@ -1,0 +1,17 @@
+
+Oracle's download page, for Java Development Kit (also Netbeans with Java 8 bundle), and Documentation:
+Oracle Home, "burger menu" 
+ -> Downloads and Trials
+ -> Java
+ -> All Java Downloads
+ --> Java SE
+http://www.oracle.com/technetwork/java/javase/downloads/index.html
+
+Java Programming Basics
+https://www.safaribooksonline.com/library/view/java-programming-basics/9780133975154/
+
+OCA Java SE 8 Programmer 1
+https://www.safaribooksonline.com/library/view/oca-java-se/9780134427201/
+
+Zeller's congruence
+https://en.wikipedia.org/wiki/Zeller%27s_congruence
