@@ -1,7 +1,4 @@
 package dates;
-// HOW familiar are you with OO
-// A) very!!
-// E) What's that!???
 
 public class DateStuff2 {
   public static int getDayOfWeek(int day, int month, int year) {
